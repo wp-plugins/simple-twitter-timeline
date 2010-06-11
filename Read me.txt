@@ -1,0 +1,29 @@
+=== Sale's Twitter Plugin ===
+Author: Sasa Karanovic
+Author Homepage: http://sasakaranovic.com
+Plugin Homepage: http://sasakaranovic.com/projects/my-twitter-timeline-wordpress-plugin/
+Tags: twitter, timeline, sidebar, widget
+Requires at least: 2.0.2
+Tested up to: 2.9
+
+
+== Description ==
+Very simple plugin that adds sidebar widget that will display defined number of your last tweets. Tweets count, twitter username and widget title can be defined at settings page.
+
+
+== Installation ==
+
+
+1. Upload `sales_twitter_plugin` folder to the `/wp-content/plugins/` directory
+2. Login to your Admin Dashboard
+3. Activate the plugin through the 'Plugins' menu in WordPress Admin Dashboard
+4. Go to Settings->Sale's Twitter Timeline page in Admin Dashboard and set-up your your info.
+5. Go to Appearance->Widgets and add Sale's Twitter Timeline to your Sidebar
+6. Visit your site and verify that tweets are displayed the way you want them to be ;)
+
+
+== Changelog ==
+
+= 1.0 =
+* Added margins between tweets because some of themes don't have default margin for paragraphs.
+* Plugin created and published to the world. Now waiting for replies and suggestions :)
